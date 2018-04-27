@@ -22,7 +22,7 @@ namespace Microsoft.Quantum.Samples.SimpleAlgorithms {
 
     // This sample contains serveral simple quantum algorithms coded in Q#. The 
     // intent is to highlight the expressive capabilities of the language that 
-    // allow to express quantum algirthm that consist of a short quantum part and 
+    // allow to express quantum algorithm that consist of a short quantum part and 
     // classical post-processing that is simple, or in some cases, trivial.
 
     // First, note that every Q# function needs to have a namespace. We define 
